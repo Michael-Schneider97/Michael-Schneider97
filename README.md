@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Michael Schneider
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning c/c++ and assembly
-- 💞 I am a BA in History and Premed (UCI) looking to change career paths
-- 📫 How to reach me ...
+Hi, welcome to my github account!
 
-<!---
-Michael-Schneider97/Michael-Schneider97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a student at UCI studying CS/SWE. 
+You'll notice I have a few repos on here. 
+Most of them are from silly little projects I became bored of. 
+The majority of my best work has been done in private repos and won't show up here.
+
+Thanks for visiting!
